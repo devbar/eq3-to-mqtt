@@ -51,3 +51,7 @@ Open `/etc/eq3/config.json` with an deditor and change the these lines.
 }
 ```
 Restart by calling `systemctl restart eq3-to-mqtt` after changing something.
+
+## References
+
+* [Einrichten der_Bluetooth Thermostate von eQ-3](https://wiki.fhem.de/wiki/Einrichten_der_Bluetooth-Thermostate_von_eQ-3)
