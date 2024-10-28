@@ -437,3 +437,10 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,csharp
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
+.vscode/tasks.json
+.vscode/launch.json
+.idea/.idea.Devbar.EQ3/.idea/vcs.xml
+.idea/.idea.Devbar.EQ3/.idea/indexLayout.xml
+.idea/.idea.Devbar.EQ3/.idea/.name
+.idea/.idea.Devbar.EQ3/.idea/.gitignore
+global.json
